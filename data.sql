@@ -1,3 +1,4 @@
+
 /* Inserting elements in customer table */
 
 INSERT INTO customers (name, email, city, signup_date) VALUES
